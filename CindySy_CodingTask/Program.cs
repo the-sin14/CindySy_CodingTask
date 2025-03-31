@@ -1,10 +1,6 @@
 ﻿using System.Text;
 class Average
 {
-    // TODO: add comment and create README
-    // TODO: clean up code
-
-    // 
     private static double getAverage(List<double> arrayofNums) { 
         double average = 0;
 
