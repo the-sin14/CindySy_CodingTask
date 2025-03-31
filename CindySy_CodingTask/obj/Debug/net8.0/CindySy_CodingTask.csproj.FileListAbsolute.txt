@@ -1,0 +1,14 @@
+C:\Users\Cindy\source\repos\CindySy_CodingTask\CindySy_CodingTask\bin\Debug\net8.0\CindySy_CodingTask.exe
+C:\Users\Cindy\source\repos\CindySy_CodingTask\CindySy_CodingTask\bin\Debug\net8.0\CindySy_CodingTask.deps.json
+C:\Users\Cindy\source\repos\CindySy_CodingTask\CindySy_CodingTask\bin\Debug\net8.0\CindySy_CodingTask.runtimeconfig.json
+C:\Users\Cindy\source\repos\CindySy_CodingTask\CindySy_CodingTask\bin\Debug\net8.0\CindySy_CodingTask.dll
+C:\Users\Cindy\source\repos\CindySy_CodingTask\CindySy_CodingTask\bin\Debug\net8.0\CindySy_CodingTask.pdb
+C:\Users\Cindy\source\repos\CindySy_CodingTask\CindySy_CodingTask\obj\Debug\net8.0\CindySy_CodingTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cindy\source\repos\CindySy_CodingTask\CindySy_CodingTask\obj\Debug\net8.0\CindySy_CodingTask.AssemblyInfoInputs.cache
+C:\Users\Cindy\source\repos\CindySy_CodingTask\CindySy_CodingTask\obj\Debug\net8.0\CindySy_CodingTask.AssemblyInfo.cs
+C:\Users\Cindy\source\repos\CindySy_CodingTask\CindySy_CodingTask\obj\Debug\net8.0\CindySy_CodingTask.csproj.CoreCompileInputs.cache
+C:\Users\Cindy\source\repos\CindySy_CodingTask\CindySy_CodingTask\obj\Debug\net8.0\CindySy_CodingTask.dll
+C:\Users\Cindy\source\repos\CindySy_CodingTask\CindySy_CodingTask\obj\Debug\net8.0\refint\CindySy_CodingTask.dll
+C:\Users\Cindy\source\repos\CindySy_CodingTask\CindySy_CodingTask\obj\Debug\net8.0\CindySy_CodingTask.pdb
+C:\Users\Cindy\source\repos\CindySy_CodingTask\CindySy_CodingTask\obj\Debug\net8.0\CindySy_CodingTask.genruntimeconfig.cache
+C:\Users\Cindy\source\repos\CindySy_CodingTask\CindySy_CodingTask\obj\Debug\net8.0\ref\CindySy_CodingTask.dll
